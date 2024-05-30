@@ -1,0 +1,94 @@
+body{
+  padding: 0;
+  margin: auto;
+  /* box-sizing: border-box; */
+}
+.nav{
+    max-width: 100vw;
+    height: 7vw;
+    background: linear-gradient(
+          rgba(0, 0, 0, 1),
+          rgba(0, 0, 0, 0.9),
+          rgba(0, 0, 0, 0.8),
+          rgba(0, 0, 0, 0.7)
+    );
+}
+.h1{
+    background-color: white;
+    display: inline-block;
+    margin-top: 35px;
+    padding: 7px;
+    
+    margin-left: 7%;
+    width: 5%;
+    text-align: center;
+    
+    
+    
+}
+.h2 {
+    color: white;
+    display: inline-block;
+    padding-left: 125px;
+    margin-top: 35px;
+}
+
+.backimg{
+    background-image: url("https://e0.pxfuel.com/wallpapers/850/763/desktop-wallpaper-construction-site-construction-work.jpg");
+    height: 500px;
+    
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    
+}
+.smallimg{
+    height: 500px;
+    width: 100%;
+    
+    
+}
+.img1{
+    display: inline;
+    height: 90%;
+    width: 29%;
+    padding: 2%;
+
+}
+.img2{
+    display: inline;
+    height: 90%;
+    width: 29%;
+    padding: 2%;
+
+}
+.img3{
+    display: inline;
+    
+    height: 90%;
+    width: 29%;
+    padding: 2%;
+
+}
+.last{
+    height: 500px;
+    background-color: black;
+    
+}
+
+.para{
+    color: white;
+    width: 40%;
+    display: inline-block;
+    margin-top: 15%;
+    margin-left: 2%;
+}
+
+.Limg{
+    height: 380px;
+    width: 45%;
+    display: inline-block;
+    margin-left: 4%;
+    margin-bottom: 2%;
+
+
+}
